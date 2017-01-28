@@ -1,0 +1,14 @@
+{
+  "name": "unitRepo",
+  "version": "1.0.0",
+  "description": "To verify Unit tests are written properly",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Theja Dasari",
+  "license": "",
+  "dependencies": {
+    "escodegen": "^1.8.1",
+    "esprima": "^3.1.3",
+    "estraverse": "^4.2.0"
+  }
+}
