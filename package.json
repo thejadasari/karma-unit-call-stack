@@ -1,8 +1,8 @@
 {
-  "name": "unitRepo",
+  "name": "karma-unit-call-stack-reporter",
   "version": "1.0.0",
   "description": "To verify Unit tests are written properly",
-  "main": "main.js",
+  "main": "lib/index.js",
   "scripts": {},
   "author": "Theja Dasari",
   "license": "",
