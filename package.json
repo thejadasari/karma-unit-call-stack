@@ -1,5 +1,5 @@
 {
-  "name": "karma-unit-call-stack-reporter",
+  "name": "karma-unit-call-stack",
   "version": "1.0.0",
   "description": "To verify Unit tests are written properly",
   "main": "lib/index.js",
@@ -9,6 +9,7 @@
   "dependencies": {
     "escodegen": "^1.8.1",
     "esprima": "^3.1.3",
-    "estraverse": "^4.2.0"
+    "estraverse": "^4.2.0",
+    "handlebars": "^4.0.6"
   }
 }
